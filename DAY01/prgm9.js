@@ -1,12 +1,12 @@
 //method overriding
 
 class A{
-    method(){
+    method1(){
         console.log("inside first method");
         
     }
 
-    method(){
+    method2(){
         console.log("inside second method");
         
     }
